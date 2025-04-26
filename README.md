@@ -12,6 +12,12 @@ Challenge de desarrollo de aplicación en React con backend en Ruby on Rails o N
 Cada repositorio contiene su propia guía de instalación y documentación específica.
 </br>
 
+## Notas importantes
+
+- El contenido solicitado en el Challenge se encuentra en la rama `tcit` tanto en el frontend como en el backend.
+- La rama `master` (o `main`) contiene el CRUD completo y funcionalidades adicionales.
+- Es importante que ambos proyectos estén sincronizados en la **misma rama** (`tcit` o `master/main`) para evitar errores o inconsistencias.
+
 ## Tecnologías utilizadas
 
 - Frontend: React 19, Vite, Redux Toolkit, Tailwind CSS
