@@ -4,16 +4,15 @@
 
 # TCIT - Proyecto de Desarrollo Web
 
-Challenge de desarrollo de aplicación en React con backend en Ruby on Rails o NodeJS, Base de datos SQL
+Challenge de desarrollo de aplicación en React con backend en Ruby on Rails o NodeJS, Base de datos SQL.
 
 - **Frontend**: [Repositorio del frontend](https://github.com/jonathanleivag/tcit-frontend.git)
 - **Backend**: [Repositorio del backend](https://github.com/jonathanleivag/tcit-backend.git)
 
 Cada repositorio contiene su propia guía de instalación y documentación específica.
+</br>
 
 ## Tecnologías utilizadas
 
 - Frontend: React 19, Vite, Redux Toolkit, Tailwind CSS
 - Backend: Node.js, Express, PostgreSQL, Prisma ORM
-
----
