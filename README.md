@@ -9,11 +9,11 @@ Challenge de desarrollo de aplicación en React con backend en Ruby on Rails o N
 - **Frontend**: [Repositorio del frontend](https://github.com/jonathanleivag/tcit-frontend.git)
 - **Backend**: [Repositorio del backend](https://github.com/jonathanleivag/tcit-backend.git)
 
+Cada repositorio contiene su propia guía de instalación y documentación específica.
+
 ## Tecnologías utilizadas
 
 - Frontend: React 19, Vite, Redux Toolkit, Tailwind CSS
 - Backend: Node.js, Express, PostgreSQL, Prisma ORM
 
 ---
-
-Cada repositorio contiene su propia guía de instalación y documentación específica.
