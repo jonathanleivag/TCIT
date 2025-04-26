@@ -14,9 +14,9 @@ Cada repositorio contiene su propia guía de instalación y documentación espec
 
 ## Notas importantes
 
-- El contenido solicitado en el Challenge se encuentra en la rama `tcit` tanto en el frontend como en el backend.
+- El contenido solicitado en el Challenge se encuentra en la rama `TCIT` tanto en el frontend como en el backend.
 - La rama `master` (o `main`) contiene el CRUD completo y funcionalidades adicionales.
-- Es importante que ambos proyectos estén sincronizados en la **misma rama** (`tcit` o `master/main`) para evitar errores o inconsistencias.
+- Es importante que ambos proyectos estén sincronizados en la **misma rama** (`TCIT` o `master/main`) para evitar errores o inconsistencias.
 
 ## Tecnologías utilizadas
 
