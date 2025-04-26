@@ -16,3 +16,7 @@ Cada repositorio contiene su propia guía de instalación y documentación espec
 
 - Frontend: React 19, Vite, Redux Toolkit, Tailwind CSS
 - Backend: Node.js, Express, PostgreSQL, Prisma ORM
+
+<p align="center">
+  <img src="./test.gif" alt="Demo GIF" width="500"/>
+</p>
